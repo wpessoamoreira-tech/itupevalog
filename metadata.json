@@ -1,0 +1,8 @@
+{
+  "name": "Itupeva Log Express",
+  "description": "Landing page institucional e sistema de cotação de fretes rápidos para a Itupeva Log Express com integração em tempo real e atendimento WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
